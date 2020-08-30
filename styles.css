@@ -137,7 +137,7 @@ input{
 .time_date {
   display: block;
   font-size: 12px;
-  margin: 8px 0 0;
+  margin: 8px 0 10px;
 }
 
 .received_withd_msg {
